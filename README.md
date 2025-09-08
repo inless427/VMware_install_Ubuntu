@@ -60,11 +60,13 @@ Tips: `live-sever`是轻量级服务器版本（也称为无头服务器），�
 ![alt text](imgs/image-13.png)
 
 如果要安装的虚拟机系统，是市面上常见的操作系统，选择`典型`，操作会容易很多。为了让教程更具普适性，这里就不展示了。
+
 ![a](imgs/image-14.png)
 
 ![alt text](imgs/image-15.png)
 
 这里选择`安装程序光盘映像文件`的话，会进入简易安装（就是上面的`典型`）。
+
 ![alt text](imgs/image-16.png)
 
 ![alt text](imgs/image-17.png)
