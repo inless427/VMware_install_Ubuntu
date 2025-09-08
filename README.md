@@ -1,5 +1,5 @@
 # 下载Ubuntu-Desktop
-一般情况下，最好是通过`官网`(https://ubuntu.com/download/desktop)下载Ubuntu的发行。
+一般情况下，最好是通过`官网`(https://ubuntu.com/download/desktop) 下载Ubuntu的发行。
 
 ![Ubuntu-Desktop](imgs/image-1.png)
 由于众所周知的原因，国内下载可能遇到速度慢或者无法访问的问题。
